@@ -5,12 +5,10 @@
     "especie": "cachorro",
     "idade": 2
   },
-  [
-    {
+  {
       "id": "2",
       "nome": "zeus",
       "especie": "cachorro",
-      "idade": 1000
-    }
-  ]
+      "idade": 1000 
+  }
 ]
