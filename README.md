@@ -11,15 +11,22 @@ O servidor é construído usando o framework Express.js, e o cliente é implemen
 ## Funcionalidades:
 
 **Adicionar Animal:** Permite ao usuário adicionar um novo animal à base de dados da clínica, fornecendo informações como ID, nome, espécie e idade.
+
 **Editar Animal:** Possibilita a edição dos dados de um animal existente com base no ID fornecido pelo usuário.
+
 **Excluir Animal:** Permite a exclusão de um animal a partir do seu ID.
+
 **Imprimir Animais:** Exibe todos os animais cadastrados na clínica com detalhes como nome, espécie e idade.
+
 
 ## Tecnologias Utilizadas:
 
 **Node.js:** Utilizado como ambiente de execução para o servidor e cliente.
+
 **Express.js:** Framework para construção do servidor backend.
-**Insomia:** Utilizado para testar as rotas
+
+**Insomia:** Utilizado para testar as rotas.
+
 
 ## Persistência de Dados:
 
